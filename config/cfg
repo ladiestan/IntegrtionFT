@@ -5,4 +5,4 @@ sender = 1102512970@qq.com
 #psw 是QQ邮箱授权码
 psw =
 #收件人多个，中间用逗号隔开，例如“com，com”
-receiver =
+receiver = tzp@casanube.cn
